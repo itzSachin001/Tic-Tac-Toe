@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="new_game">New game</string>
+    <string name="btnPlayer1">Player 1(x)</string>
+    <string name="btnPlayer2">Player 2(O)</string>
+    <string name="heading">Welcome to Tic Tac Toe</string>
+    <string name="player_2_o">Player 2(O)</string>
+    <string name="player_1_x">Player 1(X)</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="made_by_sachin">Made by Sachin</string>
+    <string name="todo">TODO</string>
+    <string name="winner">Winner</string>
+    <string name="ok">Ok</string>
+
+
+</resources>
